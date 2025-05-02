@@ -150,10 +150,11 @@ print("Name:", name, "Age:", age)  # Output: Name: Alice Age: 30
 Formatting options:
 ```python
 # f-strings (Python 3.6+)
-print(f"Name: {name}, Age: {age}")
+print(f"Name: {name}, Age: {age}") # Output: Name: Alice, Age: 30
 
 # format() method
-print("Name: {}, Age: {}".format(name, age))
+print("Name: {}, Age: {}".format(name, age)) # Output: Name: Alice, Age: 30
+print("Age: {1}, Name: {0}".format(name, age))  # Output: Age: 30, Name: Alice
 
 # % operator
 print("Name: %s, Age: %d" % (name, age))

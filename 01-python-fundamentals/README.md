@@ -22,8 +22,7 @@ Understanding Python fundamentals is crucial for several reasons:
 - They provide the building blocks needed to solve real-world problems
 
 ## Learning Path
-## Learning Path
-
+Testing commit
 
 It's recommended to learn these topics in order as they build upon each other:
 

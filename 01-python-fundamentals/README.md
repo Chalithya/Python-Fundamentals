@@ -24,7 +24,6 @@ Understanding Python fundamentals is crucial for several reasons:
 ## Learning Path
 Testing commit
 Testing no 2
-Testing no 3
 
 It's recommended to learn these topics in order as they build upon each other:
 
